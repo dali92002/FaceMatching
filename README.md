@@ -100,3 +100,7 @@ in testing we use the model to get the embeddings of the images (each images is 
     </tr>
 
 </table>
+
+
+## Authors
+- [Mohamed Ali Souibgui](https://github.com/dali92002)
